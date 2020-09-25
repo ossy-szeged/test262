@@ -188,6 +188,10 @@ Array.prototype.item
 String.prototype.item
 TypedArray.prototype.item
 
+# Iterator Helpers
+# https://github.com/tc39/proposal-iterator-helpers
+iterator-helpers
+
 ## Standard language features
 #
 # Language features that have been included in a published version of the
